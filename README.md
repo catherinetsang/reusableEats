@@ -1,7 +1,5 @@
 # reusableEats
 
-# htg
-
 ## Figma  
 https://www.figma.com/file/RmftaVaKeFyG1YIRwhLSvM/circular-econ-challenge---reusableEats-mobile-app?node-id=0%3A1
 
